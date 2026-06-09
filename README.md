@@ -1,28 +1,28 @@
 <div align="center">
 
-# Cześć, jestem Lucjan 👋
+# Lucjan Jaroszewski
 
-### Web Developer | Frontend | WordPress & E-commerce
+### Web Developer · Frontend · WordPress & E-commerce
 
-[![Website](https://img.shields.io/badge/Portfolio-luckadomena.pl-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.luckadomena.pl)
+[![Portfolio](https://img.shields.io/badge/Portfolio-luckadomena.pl-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.luckadomena.pl)
 [![GitHub](https://img.shields.io/badge/GitHub-Luceq9-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luceq9)
 
 </div>
 
 ---
 
-## 👨‍💻 O mnie
+## O mnie
 
-Jestem **web developerem** specjalizującym się w tworzeniu stron internetowych, sklepów e-commerce oraz rozwiązań opartych na WordPressie. Dbam o estetykę, wydajność i jakość kodu.
+Web developer specjalizujący się w budowie stron internetowych i sklepów e-commerce opartych na WordPressie. Tworzę **motywy potomne** oraz **niestandardowe rozwiązania** pisane od podstaw — zawsze z naciskiem na wydajność, dostępność i wyniki.
 
-- 🔭 Pracuję nad projektami **WordPress & WooCommerce**
-- 🌱 Rozwijam umiejętności w zakresie **testowania z Cypress**
-- 💼 Sprawdź moje portfolio: [luckadomena.pl](https://www.luckadomena.pl)
-- 📍 Polska
+Każdy projekt weryfikuję narzędziami takimi jak Google PageSpeed, Lighthouse, Search Console i innymi, aby mieć pewność że efekt końcowy spełnia wysokie standardy zarówno pod kątem technicznym, jak i SEO. Zależy mi na precyzji i dopracowaniu każdego detalu.
+
+- Lokalizacja: Polska
+- Portfolio: [luckadomena.pl](https://www.luckadomena.pl)
 
 ---
 
-## 🛠️ Technologie i narzędzia
+## Języki i technologie
 
 <div align="center">
 
@@ -38,30 +38,44 @@ Jestem **web developerem** specjalizującym się w tworzeniu stron internetowych
 
 ---
 
-## 📊 Statystyki GitHub
+## Narzędzia i platformy
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Luceq9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luceq9&layout=compact&theme=tokyonight&hide_border=true" />
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/Search_Console-4285F4?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-Optimization-0a66c2?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white)
+![PageSpeed](https://img.shields.io/badge/PageSpeed_Insights-4285F4?style=for-the-badge&logo=pagespeedinsights&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
-## 🌐 Znajdź mnie w sieci
+## Wybrane projekty
+
+| Projekt                                      | Opis                              | Technologie         |
+| -------------------------------------------- | --------------------------------- | ------------------- |
+| [luckadomena.pl](https://www.luckadomena.pl) | Własne portfolio i strona firmowa | WordPress, PHP, CSS |
+
+> Więcej projektów dostępnych na profilu lub na stronie portfolio.
+
+---
+
+## Aktywność
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-luckadomena.pl-0a66c2?style=for-the-badge)](https://www.luckadomena.pl)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Luceq9&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pl)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
 <div align="center">
-
-_„Dobry kod to taki, który działa — świetny kod to taki, który inni rozumieją."_
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Luceq9&color=0e75b6&style=flat&label=Odwiedziny+profilu)
 
