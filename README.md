@@ -1,10 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0a66c2&height=180&section=header&text=Lucjan%20Jaroszewski&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Web%20Developer%20%E2%80%94%20WordPress%20%26%20E-commerce&descAlignY=62&descColor=ffffffcc" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a66c2,100:0d1117&height=220&section=header&text=Lucjan%20Jaroszewski&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Web%20Developer%20%E2%80%94%20WordPress%20%26%20E-commerce&descAlignY=65&descColor=ffffffbb&descSize=20" width="100%" />
 
 <div align="center">
-
-<img src="https://github.com/Luceq9.png" width="120" alt="Lucjan Jaroszewski" />
-
-<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucjan_Jaroszewski-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucjan-jaroszewski-363475200/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-luckadomena.pl-0d76bd?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.luckadomena.pl)
