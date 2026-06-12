@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a66c2,100:0d1117&height=220&section=header&text=Lucjan%20Jaroszewski&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Web%20Developer%20%E2%80%94%20WordPress%20%26%20E-commerce&descAlignY=65&descColor=ffffffbb&descSize=20" width="100%" />
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucjan_Jaroszewski-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucjan-jaroszewski-363475200/)
