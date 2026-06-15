@@ -14,11 +14,11 @@
 
 ## O mnie
 
-Web developer z doświadczeniem w budowie stron internetowych i sklepów e-commerce — **wszystko piszę kodem**, bez zbędnych page builderów. Specjalizuję się w tworzeniu **motywów potomnych WordPress od podstaw**, rozbudowanych sklepach **WooCommerce** oraz aplikacjach w **React**, **Angular** i **Laravel**.
+Jestem web developerem — buduję strony i sklepy internetowe zarówno w czystym kodzie, jak i na WordPressie. WordPress cenię głównie za to, co daje klientowi: wygodny panel CMS, prostą obsługę treści i duże możliwości rozbudowy. Sam jednak zawsze działam od strony kodu — piszę motywy potomne od zera, nie klikam w kreatory.
 
-Każdy projekt przechodzi przeze mnie pełny audyt wydajnościowy i SEO — **Lighthouse 100/100 w każdej kategorii** to dla mnie standard, nie wyjątek. Dbam o Core Web Vitals, strukturę semantyczną, optymalizację zasobów i techniczne SEO, tak żeby strona nie tylko dobrze wyglądała, ale realnie konwertowała i rankingowała.
+Pracowałem z **WooCommerce**, **React**, **Angular** i **Laravel**. Każdy projekt staram się oddać z porządnie zoptymalizowanym frontendem — sprawdzam wydajność przez **Lighthouse** i **PageSpeed Insights**, pilnuję Core Web Vitals i dbam o to, żeby wynik był naprawdę dobry, nie tylko "przyzwoity".
 
-W zakresie SEO korzystam z narzędzi takich jak **Google Search Console**, **Semrush**, **Yoast / Rank Math** — buduję strategię widoczności, a nie tylko wdrażam wtyczki. Integruję sklepy z **Baselinkerem**, prowadzę testy wizualnej regresji z **Percy** i piszę testy E2E w **Cypress**.
+SEO traktuję poważnie — korzystam z **Google Search Console**, **Semrush**, **Yoast** i **Rank Math**, ustawiam strukturę techniczną, meta, schematy. Wiem, że samo zbudowanie strony to za mało. Dodatkowo dbam o bezpieczeństwo aplikacji — zabezpieczam formularze i punkty wejścia przed wstrzykiwaniem danych (SQL injection, XSS i inne).
 
 > **Lokalizacja:** Polska &nbsp;&nbsp;|&nbsp;&nbsp; **Portfolio:** [luckadomena.pl](https://www.luckadomena.pl) &nbsp;&nbsp;|&nbsp;&nbsp; **Specjalizacja:** WordPress · WooCommerce · React · SEO · Performance
 
