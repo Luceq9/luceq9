@@ -14,35 +14,43 @@
 
 ## O mnie
 
-Web developer specjalizujący się w tworzeniu stron internetowych i sklepów e-commerce opartych na **WordPress**. Piszę **motywy potomne** od podstaw oraz buduję zaawansowane layouty z użyciem **Elementora** — zawsze dbając o wydajność, czysty kod i wyniki w wyszukiwarce.
+Web developer z doświadczeniem w budowie stron internetowych i sklepów e-commerce — **wszystko piszę kodem**, bez zbędnych page builderów. Specjalizuję się w tworzeniu **motywów potomnych WordPress od podstaw**, rozbudowanych sklepach **WooCommerce** oraz aplikacjach w **React**, **Angular** i **Laravel**.
 
-Każdy projekt weryfikuję narzędziami takimi jak **PageSpeed Insights**, **Lighthouse** i **Google Search Console**, aby mieć pewność, że efekt końcowy spełnia wysokie standardy techniczne i SEO.
+Każdy projekt przechodzi przeze mnie pełny audyt wydajnościowy i SEO — **Lighthouse 100/100 w każdej kategorii** to dla mnie standard, nie wyjątek. Dbam o Core Web Vitals, strukturę semantyczną, optymalizację zasobów i techniczne SEO, tak żeby strona nie tylko dobrze wyglądała, ale realnie konwertowała i rankingowała.
 
-> **Lokalizacja:** Polska &nbsp;&nbsp;|&nbsp;&nbsp; **Portfolio:** [luckadomena.pl](https://www.luckadomena.pl) &nbsp;&nbsp;|&nbsp;&nbsp; **Specjalizacja:** WordPress · WooCommerce · SEO
+W zakresie SEO korzystam z narzędzi takich jak **Google Search Console**, **Semrush**, **Yoast / Rank Math** — buduję strategię widoczności, a nie tylko wdrażam wtyczki. Integruję sklepy z **Baselinkerem**, prowadzę testy wizualnej regresji z **Percy** i piszę testy E2E w **Cypress**.
+
+> **Lokalizacja:** Polska &nbsp;&nbsp;|&nbsp;&nbsp; **Portfolio:** [luckadomena.pl](https://www.luckadomena.pl) &nbsp;&nbsp;|&nbsp;&nbsp; **Specjalizacja:** WordPress · WooCommerce · React · SEO · Performance
 
 ---
 
 ## Tech Stack
 
-### Frontend
+### Frontend & Frameworks
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### CMS & E-commerce
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
 ![Child Theme](https://img.shields.io/badge/Child_Theme-Dev-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Baselinker](https://img.shields.io/badge/Baselinker-F05A28?style=for-the-badge&logo=shopify&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
 
-### Narzędzia & DevOps
+### Testowanie & DevOps
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Percy](https://img.shields.io/badge/Percy-9B59B6?style=for-the-badge&logo=percy&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ### SEO & Analytics
