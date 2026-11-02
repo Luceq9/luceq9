@@ -18,7 +18,7 @@
 
 Web developer specjalizujący się w stronach i sklepach internetowych opartych o **WordPress i WooCommerce** oraz w nowoczesnym frontendzie (**Next.js, React**). Pracuję od strony kodu — motywy potomne piszę od podstaw, bez kreatorów wizualnych. Klientowi zostawiam wygodny panel CMS, a sobie pełną kontrolę nad jakością, wydajnością i bezpieczeństwem.
 
-Od 2025 roku prowadzę własną działalność, a od 2024 roku zajmuję się automatyzacją testów E2E w **Cypress** z naciskiem na **dostępność (WCAG)** i regresję wizualną.
+ od 2024 roku zajmuję się automatyzacją testów E2E w **Cypress** z naciskiem na **dostępność (WCAG)** i regresję wizualną.
 
 **Na co kładę nacisk w każdym projekcie:**
 
